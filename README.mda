@@ -5,7 +5,7 @@ Web estática multiarchivo para la empresa de instalaciones y reparaciones **Ins
 ## Estructura
 
 ```
-instalaciones-marcial/
+instalaciones-marcial/d
 ├── index.html                       → Página principal (todo el contenido y SEO)
 ├── css/
 │   └── estilos.css                  → Estilos (diseño responsive, móvil primero)
